@@ -6,6 +6,9 @@ I'm currently working as a Trainee system analyst in Agilitz Technologies Privat
 My portfolio: [Click Here](https://tamaraiselvan.pythonanywhere.com/)
 
 [![](https://visitcount.itsvg.in/api?id=tamaraiselvan&icon=2&color=1)](https://visitcount.itsvg.in)
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17120%26project%3D%26in%3D0)](https://codetime.dev)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamaraiselvan-lotus) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19711682) 
 
