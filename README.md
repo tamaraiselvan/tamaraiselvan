@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TS Tamarai Selvan</h1>
 
 # 💫 About Me:
-I'm currently working as a Trainee system analyst in Agilitz Technologies Private Limited. I am interested in development of web projects. Furthermore, I like to contribute to open source projects. I am a certified Professional of Azure cloud.
+I'm currently working as a system analyst in Agilitz Technologies Private Limited. I am interested in development of web projects. Furthermore, I like to contribute to open source projects. I am a certified Professional of Azure cloud.
 
 My portfolio: [Click Here](https://tamaraiselvan.pythonanywhere.com/)
 
