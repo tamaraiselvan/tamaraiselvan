@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm TS Tamarai Selvan</h1>
 
 # 💫 About Me:
-I'm currently working as a system analyst in Agilitz Technologies Private Limited. I am interested in development of web projects. Furthermore, I like to contribute to open source projects. I am a certified Professional of Azure cloud.
+I am a passionate Associate Technical Consultant at Agilitz Technologies Pvt Ltd, specializing in Microsoft Dynamics 365 Finance & Operations. My professional journey has been enriched by a diverse skill set encompassing web development, Azure management, and a knack for problem-solving. I thrive in collaborative settings, leveraging my team-oriented approach to navigate complex challenges. Technology isn't just a profession for me; it's a passion. I am a perpetual learner and tech enthusiast, constantly seeking opportunities to expand my knowledge and skill set. Adaptable and positive-minded, I excel in managing multiple priorities with an unwaveringly positive attitude, making me well-suited for navigating the complexities of product development in the tech sphere.
+
+Let's connect and explore how we can collaborate to embrace technology and drive impactful solutions together.
 
 My portfolio: [Click Here](https://tamaraiselvan.pythonanywhere.com/)
 
